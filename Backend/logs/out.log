@@ -1,0 +1,1387 @@
+Server listening on port 3000
+Connected to MongoDB
+Server listening on port 3000
+Connected to MongoDB
+Server listening on port 3000
+Connected to MongoDB
+Server listening on port 3000
+Connected to MongoDB
+Server listening on port 3000
+Connected to MongoDB
+Server listening on port 3000
+Connected to MongoDB
+Server listening on port 3000
+Connected to MongoDB
+Server listening on port 3000
+Connected to MongoDB
+Server listening on port 3000
+Connected to MongoDB
+calculatedN  100.27641668143801
+Server listening on port 3000
+Connected to MongoDB
+Server listening on port 3000
+Connected to MongoDB
+calculatedN  24.534199537078862
+calculatedN  4.9999483499868616
+calculatedN  NaN
+calculatedN  4.9999483499868616
+calculatedN  4.9999483499868616
+Server listening on port 3000
+Connected to MongoDB
+Server listening on port 3000
+Connected to MongoDB
+Server listening on port 3000
+Connected to MongoDB
+Server listening on port 3000
+Connected to MongoDB
+Server listening on port 3000
+Connected to MongoDB
+Server listening on port 3000
+Connected to MongoDB
+Server listening on port 3000
+Connected to MongoDB
+Server listening on port 3000
+Connected to MongoDB
+Server listening on port 3000
+Connected to MongoDB
+Server listening on port 3000
+Connected to MongoDB
+req.body.current_password  Test@123
+Server listening on port 3000
+Connected to MongoDB
+req.body.current_password  Test@123 {
+  _id: new ObjectId('66016a5bde5a507e1744eefb'),
+  email: 'arunkumar.r@v3analytics.in',
+  password: '$2b$10$bjGBvmbDhWPFN6pYO0y5wuFoEjvTSJqIBltH/YpGn4YAxnkuW8V5q',
+  name: 'Arun Kumar',
+  mobile_number: '9899999999',
+  __v: 0,
+  pan_no: 'BQTPA3888F'
+}
+Server listening on port 3000
+Connected to MongoDB
+req.body.current_password  Test@1231111 {
+  _id: new ObjectId('66016a5bde5a507e1744eefb'),
+  email: 'arunkumar.r@v3analytics.in',
+  password: '$2b$10$bjGBvmbDhWPFN6pYO0y5wuFoEjvTSJqIBltH/YpGn4YAxnkuW8V5q',
+  name: 'Arun Kumar',
+  mobile_number: '9899999999',
+  __v: 0,
+  pan_no: 'BQTPA3888F'
+}
+Server listening on port 3000
+Connected to MongoDB
+Server listening on port 3000
+Connected to MongoDB
+Server listening on port 3000
+Connected to MongoDB
+Server listening on port 3000
+Connected to MongoDB
+Server listening on port 3000
+Connected to MongoDB
+Server listening on port 3000
+Connected to MongoDB
+Server listening on port 3000
+Connected to MongoDB
+Server listening on port 3000
+Connected to MongoDB
+Server listening on port 3000
+Connected to MongoDB
+Server listening on port 3000
+Connected to MongoDB
+Server listening on port 3000
+Connected to MongoDB
+Server listening on port 3000
+Connected to MongoDB
+Server listening on port 3000
+Connected to MongoDB
+Server listening on port 3000
+Connected to MongoDB
+Server listening on port 3000
+Connected to MongoDB
+Server listening on port 3000
+Connected to MongoDB
+Server listening on port 3000
+Connected to MongoDB
+Server listening on port 3000
+Connected to MongoDB
+Server listening on port 3000
+Connected to MongoDB
+Server listening on port 3000
+Connected to MongoDB
+Server listening on port 3000
+Connected to MongoDB
+error  ReferenceError: Cannot access 'CommonSettings' before initialization
+    at /home/vikram/Documents/Desktop/Finance/Backend/routes/user.js:276:32
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+Server listening on port 3000
+Connected to MongoDB
+CommonSettings  [ { _id: new ObjectId('660cfe0cc171bf081be2ec6a'), trial_period: 7 } ]
+Server listening on port 3000
+Connected to MongoDB
+CommonSettings  7
+Server listening on port 3000
+Connected to MongoDB
+CommonSettings  7
+Server listening on port 3000
+Connected to MongoDB
+Server listening on port 3000
+Connected to MongoDB
+CommonSettings  7
+error  ReferenceError: commonSettings is not defined
+    at /home/vikram/Documents/Desktop/Finance/Backend/routes/user.js:282:31
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+Server listening on port 3000
+Connected to MongoDB
+CommonSettings  7
+Server listening on port 3000
+Connected to MongoDB
+Server listening on port 3000
+Connected to MongoDB
+Server listening on port 3000
+Connected to MongoDB
+Server listening on port 3000
+Connected to MongoDB
+Server listening on port 3000
+Connected to MongoDB
+Server listening on port 3000
+Connected to MongoDB
+Server listening on port 3000
+Connected to MongoDB
+Server listening on port 3000
+Connected to MongoDB
+userProfile  {
+  _id: new ObjectId('660cea6149c832adaca7683a'),
+  email: 'arunkumar.r@v3analytics.in',
+  name: 'Arun',
+  mobile_number: '7904540191',
+  pan_no: 'BQTPA3888E',
+  created_at: 2024-04-03T05:34:25.865Z,
+  subscription: null
+}
+Server listening on port 3000
+Connected to MongoDB
+userProfile  {
+  _id: new ObjectId('660cea6149c832adaca7683a'),
+  email: 'arunkumar.r@v3analytics.in',
+  name: 'Arun',
+  mobile_number: '7904540191',
+  pan_no: 'BQTPA3888E',
+  created_at: 2024-04-03T05:34:25.865Z,
+  subscription: null
+}
+Server listening on port 3000
+Connected to MongoDB
+Server listening on port 3000
+Connected to MongoDB
+Server listening on port 3000
+Connected to MongoDB
+userProfile  {
+  _id: new ObjectId('660cea6149c832adaca7683a'),
+  email: 'arunkumar.r@v3analytics.in',
+  name: 'Arun',
+  mobile_number: '7904540191',
+  pan_no: 'BQTPA3888E',
+  created_at: 2024-04-03T05:34:25.865Z,
+  subscription: null
+}
+Server listening on port 3000
+Connected to MongoDB
+userProfile  {
+  _id: new ObjectId('660cea6149c832adaca7683a'),
+  email: 'arunkumar.r@v3analytics.in',
+  name: 'Arun',
+  mobile_number: '7904540191',
+  pan_no: 'BQTPA3888E',
+  created_at: 2024-04-03T05:34:25.865Z,
+  subscription: null
+}
+Server listening on port 3000
+Connected to MongoDB
+Server listening on port 3000
+Connected to MongoDB
+userProfile  {
+  _id: new ObjectId('660cea6149c832adaca7683a'),
+  email: 'arunkumar.r@v3analytics.in',
+  name: 'Arun',
+  mobile_number: '7904540191',
+  pan_no: 'BQTPA3888E',
+  created_at: 2024-04-03T05:34:25.865Z,
+  subscription: null,
+  trial_period: null
+}
+Server listening on port 3000
+Connected to MongoDB
+userProfile  {
+  _id: new ObjectId('660cea6149c832adaca7683a'),
+  email: 'arunkumar.r@v3analytics.in',
+  name: 'Arun',
+  mobile_number: '7904540191',
+  pan_no: 'BQTPA3888E',
+  created_at: 2024-04-03T05:34:25.865Z,
+  subscription: null,
+  trial_period: undefined
+}
+Server listening on port 3000
+Connected to MongoDB
+commonSettings  [ { _id: new ObjectId('660cfe0cc171bf081be2ec6a'), trial_period: 7 } ]
+userProfile  {
+  _id: new ObjectId('660cea6149c832adaca7683a'),
+  email: 'arunkumar.r@v3analytics.in',
+  name: 'Arun',
+  mobile_number: '7904540191',
+  pan_no: 'BQTPA3888E',
+  created_at: 2024-04-03T05:34:25.865Z,
+  subscription: null,
+  trial_period: undefined
+}
+Server listening on port 3000
+Connected to MongoDB
+commonSettings  [ { _id: new ObjectId('660cfe0cc171bf081be2ec6a'), trial_period: 7 } ]
+userProfile  {
+  _id: new ObjectId('660cea6149c832adaca7683a'),
+  email: 'arunkumar.r@v3analytics.in',
+  name: 'Arun',
+  mobile_number: '7904540191',
+  pan_no: 'BQTPA3888E',
+  created_at: 2024-04-03T05:34:25.865Z,
+  subscription: null,
+  trial_period: undefined
+}
+Server listening on port 3000
+Connected to MongoDB
+Server listening on port 3000
+Connected to MongoDB
+commonSettings  [ { _id: new ObjectId('660cfe0cc171bf081be2ec6a'), trial_period: 7 } ]
+userProfile  {
+  _id: new ObjectId('660cea6149c832adaca7683a'),
+  email: 'arunkumar.r@v3analytics.in',
+  name: 'Arun',
+  mobile_number: '7904540191',
+  pan_no: 'BQTPA3888E',
+  created_at: 2024-04-03T05:34:25.865Z,
+  subscription: null,
+  trial_period: undefined
+}
+Server listening on port 3000
+Connected to MongoDB
+commonSettings  7
+userProfile  {
+  _id: new ObjectId('660cea6149c832adaca7683a'),
+  email: 'arunkumar.r@v3analytics.in',
+  name: 'Arun',
+  mobile_number: '7904540191',
+  pan_no: 'BQTPA3888E',
+  created_at: 2024-04-03T05:34:25.865Z,
+  subscription: null,
+  trial_period: 7
+}
+Server listening on port 3000
+Connected to MongoDB
+Server listening on port 3000
+Connected to MongoDB
+trial_period  7
+Server listening on port 3000
+Connected to MongoDB
+trial_period  7
+trial_period  7
+user  undefined
+Server listening on port 3000
+Connected to MongoDB
+trial_period  7
+user  {
+  _id: new ObjectId('660cea6149c832adaca7683a'),
+  email: 'arunkumar.r@v3analytics.in',
+  name: 'Arun',
+  mobile_number: '7904540191',
+  pan_no: 'BQTPA3888E',
+  created_at: 2024-04-03T05:34:25.865Z,
+  subscription: null
+}
+Server listening on port 3000
+Connected to MongoDB
+Server listening on port 3000
+Connected to MongoDB
+Server listening on port 3000
+Connected to MongoDB
+Server listening on port 3000
+Connected to MongoDB
+Server listening on port 3000
+Connected to MongoDB
+Server listening on port 3000
+Connected to MongoDB
+Server listening on port 3000
+Connected to MongoDB
+Server listening on port 3000
+Connected to MongoDB
+Server listening on port 3000
+Connected to MongoDB
+Server listening on port 3000
+Connected to MongoDB
+Server listening on port 3000
+Connected to MongoDB
+Server listening on port 3000
+Connected to MongoDB
+Server listening on port 3000
+Connected to MongoDB
+Server listening on port 3000
+Connected to MongoDB
+Server listening on port 3000
+Connected to MongoDB
+Server listening on port 3000
+Connected to MongoDB
+Server listening on port 3000
+Connected to MongoDB
+Server listening on port 3000
+Connected to MongoDB
+Server listening on port 3000
+Connected to MongoDB
+Server listening on port 3000
+Connected to MongoDB
+Server listening on port 3000
+Connected to MongoDB
+Server listening on port 3000
+Connected to MongoDB
+Server listening on port 3000
+Connected to MongoDB
+Server listening on port 3000
+Connected to MongoDB
+Server listening on port 3000
+Connected to MongoDB
+Server listening on port 3000
+Connected to MongoDB
+Server listening on port 3000
+Connected to MongoDB
+Server listening on port 3000
+Connected to MongoDB
+Server listening on port 3000
+Connected to MongoDB
+Server listening on port 3000
+Connected to MongoDB
+Server listening on port 3000
+Connected to MongoDB
+Server listening on port 3000
+Connected to MongoDB
+commonSettings  [
+  {
+    _id: new ObjectId('660cfe0cc171bf081be2ec6a'),
+    trial_period: 7,
+    plan_details: [ [Object], [Object], [Object] ],
+    __v: 1
+  }
+]
+Server listening on port 3000
+Connected to MongoDB
+planDetail  {
+  plantitle: 'Quaterly',
+  description: 'For agile startups that want to grow their revenue with quick experiments and data-driven decision making.',
+  monthly: '149',
+  buttonText: 'Buy Multisite',
+  buttonClass: 'primary',
+  noOfMonths: '3',
+  featureHeading: 'Everything in Standard +:',
+  features: [
+    {
+      feature: 'Offline viewing',
+      _id: new ObjectId('660e46651f3a6e7736dc27fb')
+    },
+    {
+      feature: "<span class='fw-bold text-dark'>Unlimited </span>projects",
+      _id: new ObjectId('660e46651f3a6e7736dc27fc')
+    },
+    {
+      feature: "<span class='fw-bold text-dark'>Unlimited </span>storage",
+      _id: new ObjectId('660e46651f3a6e7736dc27fd')
+    },
+    {
+      feature: 'Custom domain support',
+      _id: new ObjectId('660e46651f3a6e7736dc27fe')
+    },
+    {
+      feature: 'Bulk editing',
+      _id: new ObjectId('660e46651f3a6e7736dc27ff')
+    },
+    {
+      feature: '12 / 5 support',
+      _id: new ObjectId('660e46651f3a6e7736dc2800')
+    }
+  ],
+  _id: new ObjectId('660e46651f3a6e7736dc27fa')
+}
+planDetail  {
+  plantitle: 'Annual',
+  description: 'For fast-growth scaleups that want to grow by maximizing efficiencies in their revenue operations.',
+  monthly: '490',
+  buttonText: 'Buy Extended',
+  buttonClass: 'outline-primary',
+  noOfMonths: '12',
+  featureHeading: 'Everything in Multisite +',
+  features: [
+    {
+      feature: 'Workshop',
+      _id: new ObjectId('660e46651f3a6e7736dc2802')
+    },
+    {
+      feature: "<span class='fw-bold text-dark'>Dedicated  </span>hardware",
+      _id: new ObjectId('660e46651f3a6e7736dc2803')
+    },
+    {
+      feature: "<span class='fw-bold text-dark'>99.9% uptime </span>guarantee",
+      _id: new ObjectId('660e46651f3a6e7736dc2804')
+    },
+    {
+      feature: 'Advanced analytics',
+      _id: new ObjectId('660e46651f3a6e7736dc2805')
+    },
+    {
+      feature: '3rd party integrations',
+      _id: new ObjectId('660e46651f3a6e7736dc2806')
+    },
+    {
+      feature: '24 / 7 support',
+      _id: new ObjectId('660e46651f3a6e7736dc2807')
+    }
+  ],
+  _id: new ObjectId('660e46651f3a6e7736dc2801')
+}
+planDetail  {
+  plantitle: 'Quaterly',
+  description: 'For agile startups that want to grow their revenue with quick experiments and data-driven decision making.',
+  monthly: '149',
+  buttonText: 'Buy Multisite',
+  buttonClass: 'primary',
+  noOfMonths: '3',
+  featureHeading: 'Everything in Standard +:',
+  features: [
+    {
+      feature: 'Offline viewing',
+      _id: new ObjectId('660e46651f3a6e7736dc27fb')
+    },
+    {
+      feature: "<span class='fw-bold text-dark'>Unlimited </span>projects",
+      _id: new ObjectId('660e46651f3a6e7736dc27fc')
+    },
+    {
+      feature: "<span class='fw-bold text-dark'>Unlimited </span>storage",
+      _id: new ObjectId('660e46651f3a6e7736dc27fd')
+    },
+    {
+      feature: 'Custom domain support',
+      _id: new ObjectId('660e46651f3a6e7736dc27fe')
+    },
+    {
+      feature: 'Bulk editing',
+      _id: new ObjectId('660e46651f3a6e7736dc27ff')
+    },
+    {
+      feature: '12 / 5 support',
+      _id: new ObjectId('660e46651f3a6e7736dc2800')
+    }
+  ],
+  _id: new ObjectId('660e46651f3a6e7736dc27fa')
+}
+planDetail  {
+  plantitle: 'Annual',
+  description: 'For fast-growth scaleups that want to grow by maximizing efficiencies in their revenue operations.',
+  monthly: '490',
+  buttonText: 'Buy Extended',
+  buttonClass: 'outline-primary',
+  noOfMonths: '12',
+  featureHeading: 'Everything in Multisite +',
+  features: [
+    {
+      feature: 'Workshop',
+      _id: new ObjectId('660e46651f3a6e7736dc2802')
+    },
+    {
+      feature: "<span class='fw-bold text-dark'>Dedicated  </span>hardware",
+      _id: new ObjectId('660e46651f3a6e7736dc2803')
+    },
+    {
+      feature: "<span class='fw-bold text-dark'>99.9% uptime </span>guarantee",
+      _id: new ObjectId('660e46651f3a6e7736dc2804')
+    },
+    {
+      feature: 'Advanced analytics',
+      _id: new ObjectId('660e46651f3a6e7736dc2805')
+    },
+    {
+      feature: '3rd party integrations',
+      _id: new ObjectId('660e46651f3a6e7736dc2806')
+    },
+    {
+      feature: '24 / 7 support',
+      _id: new ObjectId('660e46651f3a6e7736dc2807')
+    }
+  ],
+  _id: new ObjectId('660e46651f3a6e7736dc2801')
+}
+Server listening on port 3000
+Connected to MongoDB
+currentDate  2024-04-04T09:42:25.427Z
+currentDate after adding  2025-04-04T09:42:25.427Z
+Server listening on port 3000
+Connected to MongoDB
+currentDate  2024-04-04T09:42:50.338Z
+currentDate after adding  2024-06-04T09:42:50.338Z
+Server listening on port 3000
+Connected to MongoDB
+Server listening on port 3000
+Connected to MongoDB
+Server listening on port 3000
+Connected to MongoDB
+Server listening on port 3000
+Connected to MongoDB
+Server listening on port 3000
+Connected to MongoDB
+Server listening on port 3000
+Connected to MongoDB
+Server listening on port 3000
+Connected to MongoDB
+Server listening on port 3000
+Connected to MongoDB
+Server listening on port 3000
+Connected to MongoDB
+Server listening on port 3000
+Connected to MongoDB
+{
+  id: 'order_NupQrFr88F79ls',
+  entity: 'order',
+  amount: 5000,
+  amount_paid: 0,
+  amount_due: 5000,
+  currency: 'INR',
+  receipt: 'order_rcptid_11',
+  offer_id: null,
+  status: 'created',
+  attempts: 0,
+  notes: [],
+  created_at: 1712295564
+}
+Server listening on port 3000
+Connected to MongoDB
+Server listening on port 3000
+Connected to MongoDB
+Server listening on port 3000
+Connected to MongoDB
+Server listening on port 3000
+Connected to MongoDB
+Server listening on port 3000
+Connected to MongoDB
+Server listening on port 3000
+Connected to MongoDB
+Server listening on port 3000
+Connected to MongoDB
+Server listening on port 3000
+Connected to MongoDB
+Server listening on port 3000
+Connected to MongoDB
+Server listening on port 3000
+Connected to MongoDB
+Server listening on port 3000
+Connected to MongoDB
+Server listening on port 3000
+Connected to MongoDB
+Server listening on port 3000
+Connected to MongoDB
+Server listening on port 3000
+Connected to MongoDB
+Server listening on port 3000
+Connected to MongoDB
+05-04-2024 11:48
+Server listening on port 3000
+Connected to MongoDB
+Server listening on port 3000
+Connected to MongoDB
+Server listening on port 3000
+Connected to MongoDB
+Server listening on port 3000
+Connected to MongoDB
+Server listening on port 3000
+Connected to MongoDB
+Server listening on port 3000
+Connected to MongoDB
+Server listening on port 3000
+Connected to MongoDB
+Server listening on port 3000
+Connected to MongoDB
+Server listening on port 3000
+Connected to MongoDB
+Server listening on port 3000
+Connected to MongoDB
+Server listening on port 3000
+Connected to MongoDB
+Server listening on port 3000
+Connected to MongoDB
+Server listening on port 3000
+Connected to MongoDB
+Server listening on port 3000
+Connected to MongoDB
+Server listening on port 3000
+Connected to MongoDB
+Server listening on port 3000
+Connected to MongoDB
+Server listening on port 3000
+Connected to MongoDB
+Server listening on port 3000
+Connected to MongoDB
+Server listening on port 3000
+Connected to MongoDB
+Server listening on port 3000
+Connected to MongoDB
+Server listening on port 3000
+Connected to MongoDB
+Server listening on port 3000
+Connected to MongoDB
+Server listening on port 3000
+Connected to MongoDB
+check1
+{
+  fieldname: 'issue_img',
+  originalname: '1.png',
+  encoding: '7bit',
+  mimetype: 'image/png',
+  destination: 'uploads/',
+  filename: '1713337161968-1.png',
+  path: 'uploads/1713337161968-1.png',
+  size: 42771
+}
+check2
+uploads/1713337161968-1.png
+Server listening on port 3000
+Connected to MongoDB
+check1
+{
+  fieldname: 'issue_img',
+  originalname: '1.png',
+  encoding: '7bit',
+  mimetype: 'image/png',
+  destination: 'uploads/',
+  filename: '1713337167754-1.png',
+  path: 'uploads/1713337167754-1.png',
+  size: 42771
+}
+check2
+uploads/1713337167754-1.png
+Server listening on port 3000
+Connected to MongoDB
+Server listening on port 3000
+Connected to MongoDB
+Server listening on port 3000
+Connected to MongoDB
+Server listening on port 3000
+Connected to MongoDB
+Server listening on port 3000
+Connected to MongoDB
+Server listening on port 3000
+Connected to MongoDB
+check1
+{
+  fieldname: 'issue_img',
+  originalname: '1.png',
+  encoding: '7bit',
+  mimetype: 'image/png',
+  destination: 'uploads/',
+  filename: '1713337240721-1.png',
+  path: 'uploads/1713337240721-1.png',
+  size: 42771
+}
+check2
+uploads/1713337240721-1.png
+Server listening on port 3000
+Connected to MongoDB
+check1
+{
+  fieldname: 'issue_img',
+  originalname: '1.png',
+  encoding: '7bit',
+  mimetype: 'image/png',
+  destination: 'uploads/',
+  filename: '1713337255475-1.png',
+  path: 'uploads/1713337255475-1.png',
+  size: 42771
+}
+check2
+uploads/1713337255475-1.png
+Server listening on port 3000
+Connected to MongoDB
+Server listening on port 3000
+Connected to MongoDB
+check1
+{
+  fieldname: 'issue_img',
+  originalname: '1.png',
+  encoding: '7bit',
+  mimetype: 'image/png',
+  destination: 'uploads/',
+  filename: '1713337319537-1.png',
+  path: 'uploads/1713337319537-1.png',
+  size: 42771
+}
+check2
+uploads/1713337319537-1.png
+Server listening on port 3000
+Connected to MongoDB
+Server listening on port 3000
+Connected to MongoDB
+Server listening on port 3000
+Connected to MongoDB
+Server listening on port 3000
+Connected to MongoDB
+Server listening on port 3000
+Connected to MongoDB
+Server listening on port 3000
+Connected to MongoDB
+Server listening on port 3000
+Connected to MongoDB
+Server listening on port 3000
+Connected to MongoDB
+user  {
+  _id: new ObjectId('660e381d56168570124f87ee'),
+  email: 'arunjazz1997@gmail.com',
+  name: 'ArunJazz',
+  mobile_number: '9876543210',
+  pan_no: 'BQTPA3888F',
+  subscription: '660e46651f3a6e7736dc27fa',
+  created_at: 2024-04-04T05:18:21.350Z,
+  subscription_start_date: 2024-04-04T09:47:21.641Z,
+  subscription_end_date: 2024-07-04T09:47:21.641Z
+}
+Server listening on port 3000
+Connected to MongoDB
+Server listening on port 3000
+Connected to MongoDB
+Server listening on port 3000
+Connected to MongoDB
+Server listening on port 3000
+Connected to MongoDB
+Server listening on port 3000
+Connected to MongoDB
+test  http://localhost:3000/uploads/1713339635735-Screenshot from 2024-02-01 16-34-34.png
+Server listening on port 3000
+Connected to MongoDB
+test  http://localhost:3000/uploads/1713339703753-Screenshotfrom2024-02-0116-34-34.png
+Server listening on port 3000
+Connected to MongoDB
+Server listening on port 3000
+Connected to MongoDB
+Server listening on port 3000
+Connected to MongoDB
+Server listening on port 3000
+Connected to MongoDB
+Server listening on port 3000
+Connected to MongoDB
+Server listening on port 3000
+Connected to MongoDB
+Server listening on port 3000
+Connected to MongoDB
+Server listening on port 3000
+Connected to MongoDB
+Server listening on port 3000
+Connected to MongoDB
+Server listening on port 3000
+Connected to MongoDB
+Server listening on port 3000
+Connected to MongoDB
+Server listening on port 3000
+Connected to MongoDB
+Server listening on port 3000
+Connected to MongoDB
+Server listening on port 3000
+Connected to MongoDB
+Server listening on port 3000
+Connected to MongoDB
+Server listening on port 3000
+Connected to MongoDB
+Server listening on port 3000
+Connected to MongoDB
+Server listening on port 3000
+Connected to MongoDB
+Server listening on port 3000
+Connected to MongoDB
+Server listening on port 3000
+Connected to MongoDB
+Server listening on port 3000
+Connected to MongoDB
+aggregatedData  []
+Server listening on port 3000
+Connected to MongoDB
+aggregatedData  [
+  { user: { email: 'arunkumar.r@v3analytics.in', name: 'Arun' } },
+  { user: { email: 'giri260698@gmail.com', name: 'Giritharan P' } },
+  { user: { email: 'giri260698@gmail.com', name: 'Giritharan P' } },
+  { user: { email: 'giri260698@gmail.com', name: 'Giritharan P' } },
+  { user: { email: 'giri260698@gmail.com', name: 'Giritharan P' } },
+  { user: { email: 'giri260698@gmail.com', name: 'Giritharan P' } },
+  { user: { email: 'giri260698@gmail.com', name: 'Giritharan P' } },
+  { user: { email: 'giri260698@gmail.com', name: 'Giritharan P' } }
+]
+Server listening on port 3000
+Connected to MongoDB
+Server listening on port 3000
+Connected to MongoDB
+Server listening on port 3000
+Connected to MongoDB
+Server listening on port 3000
+Connected to MongoDB
+Server listening on port 3000
+Connected to MongoDB
+Server listening on port 3000
+Connected to MongoDB
+Server listening on port 3000
+Connected to MongoDB
+Server listening on port 3000
+Connected to MongoDB
+Server listening on port 3000
+Connected to MongoDB
+Server listening on port 3000
+Connected to MongoDB
+Server listening on port 3000
+Connected to MongoDB
+Server listening on port 3000
+Connected to MongoDB
+Server listening on port 3000
+Connected to MongoDB
+Server listening on port 3000
+Connected to MongoDB
+Server listening on port 3000
+Connected to MongoDB
+Server listening on port 3000
+Connected to MongoDB
+Server listening on port 3000
+Connected to MongoDB
+Server listening on port 3000
+Connected to MongoDB
+Server listening on port 3000
+Connected to MongoDB
+Server listening on port 3000
+Connected to MongoDB
+Server listening on port 3000
+Connected to MongoDB
+Server listening on port 3000
+Connected to MongoDB
+Server listening on port 3000
+Connected to MongoDB
+Server listening on port 3000
+Connected to MongoDB
+Server listening on port 3000
+Connected to MongoDB
+Server listening on port 3000
+Connected to MongoDB
+Server listening on port 3000
+Connected to MongoDB
+Server listening on port 3000
+Connected to MongoDB
+Server listening on port 3000
+Connected to MongoDB
+Server listening on port 3000
+Connected to MongoDB
+Server listening on port 3000
+Connected to MongoDB
+Server listening on port 3000
+Connected to MongoDB
+Server listening on port 3000
+Connected to MongoDB
+Server listening on port 3000
+Connected to MongoDB
+Server listening on port 3000
+Connected to MongoDB
+Server listening on port 3000
+Connected to MongoDB
+Server listening on port 3000
+Connected to MongoDB
+Server listening on port 3000
+Connected to MongoDB
+Server listening on port 3000
+Connected to MongoDB
+Server listening on port 3000
+Connected to MongoDB
+Server listening on port 3000
+Connected to MongoDB
+Server listening on port 3000
+Connected to MongoDB
+Server listening on port 3000
+Connected to MongoDB
+Server listening on port 3000
+Connected to MongoDB
+Server listening on port 3000
+Connected to MongoDB
+Server listening on port 3000
+Connected to MongoDB
+Server listening on port 3000
+Connected to MongoDB
+Server listening on port 3000
+Connected to MongoDB
+Server listening on port 3000
+Connected to MongoDB
+Server listening on port 3000
+Connected to MongoDB
+Server listening on port 3000
+Connected to MongoDB
+Server listening on port 3000
+Connected to MongoDB
+Server listening on port 3000
+Connected to MongoDB
+Server listening on port 3000
+Connected to MongoDB
+Server listening on port 3000
+Connected to MongoDB
+Server listening on port 3000
+Connected to MongoDB
+Server listening on port 3000
+Connected to MongoDB
+Server listening on port 3000
+Connected to MongoDB
+Server listening on port 3000
+Connected to MongoDB
+Server listening on port 3000
+Connected to MongoDB
+Server listening on port 3000
+Connected to MongoDB
+Server listening on port 3000
+Connected to MongoDB
+Server listening on port 3000
+Connected to MongoDB
+Server listening on port 3000
+Connected to MongoDB
+Server listening on port 3000
+Connected to MongoDB
+Server listening on port 3000
+Connected to MongoDB
+Server listening on port 3000
+Connected to MongoDB
+Server listening on port 3000
+Connected to MongoDB
+Server listening on port 3000
+Connected to MongoDB
+Server listening on port 3000
+Connected to MongoDB
+Server listening on port 3000
+Connected to MongoDB
+Server listening on port 3000
+Connected to MongoDB
+Server listening on port 3000
+Connected to MongoDB
+Server listening on port 3000
+Connected to MongoDB
+Server listening on port 3000
+Connected to MongoDB
+Server listening on port 3000
+Connected to MongoDB
+tickets  {
+  _id: new ObjectId('661f7d744a4bfdb38cf7288b'),
+  email: 'arunjazz1997@gmail.com',
+  name: 'ArunJazz',
+  issue_description: 'Test Issue',
+  issue_img: 'http://localhost:3000/uploads/1713339764901-Screenshotfrom2024-04-1211-04-29.png',
+  status: 0,
+  created_at: 2024-04-17T07:42:44.932Z,
+  __v: 0
+} 2
+Server listening on port 3000
+Connected to MongoDB
+Server listening on port 3000
+Connected to MongoDB
+Server listening on port 3000
+Connected to MongoDB
+Server listening on port 3000
+Connected to MongoDB
+Server listening on port 3000
+Connected to MongoDB
+Server listening on port 3000
+Connected to MongoDB
+Server listening on port 3000
+Connected to MongoDB
+Server listening on port 3000
+Connected to MongoDB
+check1  1 1 660e46651f3a6e7736dc27f3
+check2  [
+  {
+    plantitle: 'Standard',
+    description: 'For early-stage startups that want to spend more time developing and less on manual operations.',
+    monthly: '49',
+    buttonText: 'Buy Standard',
+    buttonClass: 'outline-primary',
+    noOfMonths: '1',
+    featureHeading: 'All core features, including',
+    features: [ [Object], [Object], [Object], [Object], [Object], [Object] ],
+    _id: new ObjectId('660e46651f3a6e7736dc27f3')
+  },
+  {
+    plantitle: 'Quaterly',
+    description: 'For agile startups that want to grow their revenue with quick experiments and data-driven decision making.',
+    monthly: '149',
+    buttonText: 'Buy Multisite',
+    buttonClass: 'primary',
+    noOfMonths: '3',
+    featureHeading: 'Everything in Standard +:',
+    features: [ [Object], [Object], [Object], [Object], [Object], [Object] ],
+    _id: new ObjectId('660e46651f3a6e7736dc27fa')
+  },
+  {
+    plantitle: 'Annual',
+    description: 'For fast-growth scaleups that want to grow by maximizing efficiencies in their revenue operations.',
+    monthly: '490',
+    buttonText: 'Buy Extended',
+    buttonClass: 'outline-primary',
+    noOfMonths: '12',
+    featureHeading: 'Everything in Multisite +',
+    features: [ [Object], [Object], [Object], [Object], [Object], [Object] ],
+    _id: new ObjectId('660e46651f3a6e7736dc2801')
+  }
+]
+check4  [
+  {
+    plantitle: 'Standard',
+    description: 'For early-stage startups that want to spend more time developing and less on manual operations.',
+    monthly: '49',
+    buttonText: 'Buy Standard',
+    buttonClass: 'outline-primary',
+    noOfMonths: '1',
+    featureHeading: 'All core features, including',
+    features: [ [Object], [Object], [Object], [Object], [Object], [Object] ],
+    _id: new ObjectId('660e46651f3a6e7736dc27f3')
+  },
+  {
+    plantitle: 'Quaterly',
+    description: 'For agile startups that want to grow their revenue with quick experiments and data-driven decision making.',
+    monthly: '149',
+    buttonText: 'Buy Multisite',
+    buttonClass: 'primary',
+    noOfMonths: '3',
+    featureHeading: 'Everything in Standard +:',
+    features: [ [Object], [Object], [Object], [Object], [Object], [Object] ],
+    _id: new ObjectId('660e46651f3a6e7736dc27fa')
+  },
+  {
+    plantitle: 'Annual',
+    description: 'For fast-growth scaleups that want to grow by maximizing efficiencies in their revenue operations.',
+    monthly: '490',
+    buttonText: 'Buy Extended',
+    buttonClass: 'outline-primary',
+    noOfMonths: '12',
+    featureHeading: 'Everything in Multisite +',
+    features: [ [Object], [Object], [Object], [Object], [Object], [Object] ],
+    _id: new ObjectId('660e46651f3a6e7736dc2801')
+  }
+]
+Server listening on port 3000
+Connected to MongoDB
+check1  1 1 660e46651f3a6e7736dc27f3
+check2  [
+  {
+    plantitle: 'Standard',
+    description: 'For early-stage startups that want to spend more time developing and less on manual operations.',
+    monthly: '49',
+    buttonText: 'Buy Standard',
+    buttonClass: 'outline-primary',
+    noOfMonths: '1',
+    featureHeading: 'All core features, including',
+    features: [ [Object], [Object], [Object], [Object], [Object], [Object] ],
+    _id: new ObjectId('660e46651f3a6e7736dc27f3')
+  },
+  {
+    plantitle: 'Quaterly',
+    description: 'For agile startups that want to grow their revenue with quick experiments and data-driven decision making.',
+    monthly: '149',
+    buttonText: 'Buy Multisite',
+    buttonClass: 'primary',
+    noOfMonths: '3',
+    featureHeading: 'Everything in Standard +:',
+    features: [ [Object], [Object], [Object], [Object], [Object], [Object] ],
+    _id: new ObjectId('660e46651f3a6e7736dc27fa')
+  },
+  {
+    plantitle: 'Annual',
+    description: 'For fast-growth scaleups that want to grow by maximizing efficiencies in their revenue operations.',
+    monthly: '490',
+    buttonText: 'Buy Extended',
+    buttonClass: 'outline-primary',
+    noOfMonths: '12',
+    featureHeading: 'Everything in Multisite +',
+    features: [ [Object], [Object], [Object], [Object], [Object], [Object] ],
+    _id: new ObjectId('660e46651f3a6e7736dc2801')
+  }
+]
+check4  660e46651f3a6e7736dc27f3
+check4  660e46651f3a6e7736dc27fa
+check4  660e46651f3a6e7736dc2801
+check4  [
+  {
+    plantitle: 'Standard',
+    description: 'For early-stage startups that want to spend more time developing and less on manual operations.',
+    monthly: '49',
+    buttonText: 'Buy Standard',
+    buttonClass: 'outline-primary',
+    noOfMonths: '1',
+    featureHeading: 'All core features, including',
+    features: [ [Object], [Object], [Object], [Object], [Object], [Object] ],
+    _id: new ObjectId('660e46651f3a6e7736dc27f3')
+  },
+  {
+    plantitle: 'Quaterly',
+    description: 'For agile startups that want to grow their revenue with quick experiments and data-driven decision making.',
+    monthly: '149',
+    buttonText: 'Buy Multisite',
+    buttonClass: 'primary',
+    noOfMonths: '3',
+    featureHeading: 'Everything in Standard +:',
+    features: [ [Object], [Object], [Object], [Object], [Object], [Object] ],
+    _id: new ObjectId('660e46651f3a6e7736dc27fa')
+  },
+  {
+    plantitle: 'Annual',
+    description: 'For fast-growth scaleups that want to grow by maximizing efficiencies in their revenue operations.',
+    monthly: '490',
+    buttonText: 'Buy Extended',
+    buttonClass: 'outline-primary',
+    noOfMonths: '12',
+    featureHeading: 'Everything in Multisite +',
+    features: [ [Object], [Object], [Object], [Object], [Object], [Object] ],
+    _id: new ObjectId('660e46651f3a6e7736dc2801')
+  }
+]
+Server listening on port 3000
+Connected to MongoDB
+Server listening on port 3000
+Connected to MongoDB
+check1  1 1 660e46651f3a6e7736dc27f3
+check2  [
+  {
+    plantitle: 'Standard',
+    description: 'For early-stage startups that want to spend more time developing and less on manual operations.',
+    monthly: '49',
+    buttonText: 'Buy Standard',
+    buttonClass: 'outline-primary',
+    noOfMonths: '1',
+    featureHeading: 'All core features, including',
+    features: [ [Object], [Object], [Object], [Object], [Object], [Object] ],
+    _id: new ObjectId('660e46651f3a6e7736dc27f3')
+  },
+  {
+    plantitle: 'Quaterly',
+    description: 'For agile startups that want to grow their revenue with quick experiments and data-driven decision making.',
+    monthly: '149',
+    buttonText: 'Buy Multisite',
+    buttonClass: 'primary',
+    noOfMonths: '3',
+    featureHeading: 'Everything in Standard +:',
+    features: [ [Object], [Object], [Object], [Object], [Object], [Object] ],
+    _id: new ObjectId('660e46651f3a6e7736dc27fa')
+  },
+  {
+    plantitle: 'Annual',
+    description: 'For fast-growth scaleups that want to grow by maximizing efficiencies in their revenue operations.',
+    monthly: '490',
+    buttonText: 'Buy Extended',
+    buttonClass: 'outline-primary',
+    noOfMonths: '12',
+    featureHeading: 'Everything in Multisite +',
+    features: [ [Object], [Object], [Object], [Object], [Object], [Object] ],
+    _id: new ObjectId('660e46651f3a6e7736dc2801')
+  }
+]
+check3  660e46651f3a6e7736dc27f3
+check3 , {
+  plantitle: 'Standard',
+  description: 'For early-stage startups that want to spend more time developing and less on manual operations.',
+  monthly: '50',
+  buttonText: 'Buy Standard',
+  buttonClass: 'outline-primary',
+  noOfMonths: '1',
+  featureHeading: 'All core features, including',
+  features: [
+    {
+      feature: 'Only Basic Components',
+      _id: new ObjectId('660e46651f3a6e7736dc27f4')
+    },
+    {
+      feature: "<span class='fw-bold text-dark'>12+ </span> Adv. Components",
+      _id: new ObjectId('660e46651f3a6e7736dc27f5')
+    },
+    {
+      feature: "<span class='fw-bold text-dark'>5 - </span>Landing page",
+      _id: new ObjectId('660e46651f3a6e7736dc27f6')
+    },
+    {
+      feature: "<span class='fw-bold text-dark'>3 </span>Dashboard Layouts",
+      _id: new ObjectId('660e46651f3a6e7736dc27f7')
+    },
+    {
+      feature: 'Documentation',
+      _id: new ObjectId('660e46651f3a6e7736dc27f8')
+    },
+    {
+      feature: 'Access to support forums',
+      _id: new ObjectId('660e46651f3a6e7736dc27f9')
+    }
+  ],
+  _id: new ObjectId('660e46651f3a6e7736dc27f3')
+}
+check3  660e46651f3a6e7736dc27fa
+check3  660e46651f3a6e7736dc2801
+check4  [
+  {
+    plantitle: 'Standard',
+    description: 'For early-stage startups that want to spend more time developing and less on manual operations.',
+    monthly: '50',
+    buttonText: 'Buy Standard',
+    buttonClass: 'outline-primary',
+    noOfMonths: '1',
+    featureHeading: 'All core features, including',
+    features: [ [Object], [Object], [Object], [Object], [Object], [Object] ],
+    _id: new ObjectId('660e46651f3a6e7736dc27f3')
+  },
+  {
+    plantitle: 'Quaterly',
+    description: 'For agile startups that want to grow their revenue with quick experiments and data-driven decision making.',
+    monthly: '149',
+    buttonText: 'Buy Multisite',
+    buttonClass: 'primary',
+    noOfMonths: '3',
+    featureHeading: 'Everything in Standard +:',
+    features: [ [Object], [Object], [Object], [Object], [Object], [Object] ],
+    _id: new ObjectId('660e46651f3a6e7736dc27fa')
+  },
+  {
+    plantitle: 'Annual',
+    description: 'For fast-growth scaleups that want to grow by maximizing efficiencies in their revenue operations.',
+    monthly: '490',
+    buttonText: 'Buy Extended',
+    buttonClass: 'outline-primary',
+    noOfMonths: '12',
+    featureHeading: 'Everything in Multisite +',
+    features: [ [Object], [Object], [Object], [Object], [Object], [Object] ],
+    _id: new ObjectId('660e46651f3a6e7736dc2801')
+  }
+]
+Server listening on port 3000
+Connected to MongoDB
+check3 , {
+  plantitle: 'Standard',
+  description: 'For early-stage startups that want to spend more time developing and less on manual operations.',
+  monthly: '49',
+  buttonText: 'Buy Standard',
+  buttonClass: 'outline-primary',
+  noOfMonths: '1',
+  featureHeading: 'All core features, including',
+  features: [
+    {
+      feature: 'Only Basic Components',
+      _id: new ObjectId('660e46651f3a6e7736dc27f4')
+    },
+    {
+      feature: "<span class='fw-bold text-dark'>12+ </span> Adv. Components",
+      _id: new ObjectId('660e46651f3a6e7736dc27f5')
+    },
+    {
+      feature: "<span class='fw-bold text-dark'>5 - </span>Landing page",
+      _id: new ObjectId('660e46651f3a6e7736dc27f6')
+    },
+    {
+      feature: "<span class='fw-bold text-dark'>3 </span>Dashboard Layouts",
+      _id: new ObjectId('660e46651f3a6e7736dc27f7')
+    },
+    {
+      feature: 'Documentation',
+      _id: new ObjectId('660e46651f3a6e7736dc27f8')
+    },
+    {
+      feature: 'Access to support forums',
+      _id: new ObjectId('660e46651f3a6e7736dc27f9')
+    }
+  ],
+  _id: new ObjectId('660e46651f3a6e7736dc27f3')
+}
+check3 , {
+  plantitle: 'Quaterly Updated',
+  description: 'For agile startups that want to grow their revenue with quick experiments and data-driven decision making.',
+  monthly: '150',
+  buttonText: 'Buy Multisite',
+  buttonClass: 'primary',
+  noOfMonths: '3',
+  featureHeading: 'Everything in Standard +:',
+  features: [
+    {
+      feature: 'Offline viewing',
+      _id: new ObjectId('660e46651f3a6e7736dc27fb')
+    },
+    {
+      feature: "<span class='fw-bold text-dark'>Unlimited </span>projects",
+      _id: new ObjectId('660e46651f3a6e7736dc27fc')
+    },
+    {
+      feature: "<span class='fw-bold text-dark'>Unlimited </span>storage",
+      _id: new ObjectId('660e46651f3a6e7736dc27fd')
+    },
+    {
+      feature: 'Custom domain support',
+      _id: new ObjectId('660e46651f3a6e7736dc27fe')
+    },
+    {
+      feature: 'Bulk editing',
+      _id: new ObjectId('660e46651f3a6e7736dc27ff')
+    },
+    {
+      feature: '12 / 5 support',
+      _id: new ObjectId('660e46651f3a6e7736dc2800')
+    }
+  ],
+  _id: new ObjectId('660e46651f3a6e7736dc27fa')
+}
+Server listening on port 3000
+Connected to MongoDB
+Server listening on port 3000
+Connected to MongoDB
+Server listening on port 3000
+Connected to MongoDB
+check1
+Server listening on port 3000
+Connected to MongoDB
+Server listening on port 3000
+Connected to MongoDB
+Server listening on port 3000
+Connected to MongoDB
+check1
+check2  Result { formatter: [Function: formatter], errors: [] }
+Server listening on port 3000
+Connected to MongoDB
+check1
+check2  Result { formatter: [Function: formatter], errors: [] }
+check3  arunkumar.r@v3analytics.com
+check4  null
+check1
+check2  Result { formatter: [Function: formatter], errors: [] }
+check3  arunkumar.r@v3analytics.in
+check4  {
+  _id: new ObjectId('660cea6149c832adaca7683a'),
+  email: 'arunkumar.r@v3analytics.in',
+  password: '$2b$10$kn0Ky9X3sIWUJMEDBNo0.OfZIKnMqnyzgl91zqrjOjv0i6OD8BMt6',
+  name: 'Arun',
+  mobile_number: '7904540191',
+  pan_no: 'BQTPA3888E',
+  created_at: 2024-03-27T05:34:25.865Z,
+  __v: 0,
+  subscription: '660e46651f3a6e7736dc27fa',
+  subscription_start_date: 2024-04-05T06:18:22.278Z,
+  subscription_end_date: 2024-04-05T07:18:22.278Z,
+  status: 1,
+  role: 0
+}
+0 usr
+Server listening on port 3000
+Connected to MongoDB
+Server listening on port 3000
+Connected to MongoDB
+Server listening on port 3000
+Connected to MongoDB
+Server listening on port 3000
+Connected to MongoDB
+Server listening on port 3000
+Connected to MongoDB
+Server listening on port 3000
+Connected to MongoDB
+Server listening on port 3000
+Connected to MongoDB
+Server listening on port 3000
+Connected to MongoDB
